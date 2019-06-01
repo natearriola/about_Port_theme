@@ -10,9 +10,8 @@ body footer {
   padding: 15px;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 600px) {
   body footer {
-    position: absolute;
     bottom: 0;
     left: 0;
     right: 0;
@@ -592,4 +591,4 @@ main .contact-resume .contact-form form .form-control-submit:hover {
   cursor: pointer;
   background-color: #97c2db;
 }
-/*# sourceMappingURL=about.css.map */
+/*# sourceMappingURL=main.css.map */
